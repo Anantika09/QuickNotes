@@ -1,0 +1,16 @@
+{
+  "name": "quicknotes",
+  "version": "1.0.0",
+  "description": "A simple note-taking app using Node.js and Express.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.16.1"
+  }
+}
